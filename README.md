@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Varun Kumar!!! You can yell me Varun
-- 👀 I’m interested in designing....
-- 🌱 I’m doing bachelors of technology in sphoorthy engneering college....
-- 💞️ I’m looking to collaborate on any work related to development or designing to do this you need to guide me.....
-- 📫 How to reach me!!! I Displayed my social media you can ping me there....
+# 👋 Hi, I’m Varun Kumar  
+
+- 🔹 You can call me **Varun**  
+- 👀 I’m passionate about **designing and development**  
+- 🎓 I have recently completed my **Bachelor of Technology** from *Sphoorthy Engineering College*  
+- 💡 I’m looking forward to collaborating on **development or design projects** where I can learn and contribute  
+- 📫 You can reach me through my social media links – feel free to connect!  
+
+✨ Excited to explore opportunities and grow in the field of technology 🚀
+
 
 <!---
 Varun63036/Varun63036 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
