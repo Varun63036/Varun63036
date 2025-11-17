@@ -2,7 +2,7 @@
 
 - 🔹 You can call me **Varun**  
 - 👀 I’m passionate about **designing and development**  
-- 🎓 I have recently completed my **Bachelor of Technology** from *Sphoorthy Engineering College*  
+- 🎓 I have recently completed my **Bachelor of Technology** from *JAWAHARLAL NEHRU TECHNICAL UNIVERSITY *  
 - 💡 I’m looking forward to collaborating on **development or design projects** where I can learn and contribute  
 - 📫 You can reach me through my social media links – feel free to connect!  
 
